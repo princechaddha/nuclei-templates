@@ -1,0 +1,16 @@
+# Comment to a new issue.
+issueOpened: >
+  Hello, Thank you for taking the time to create this issue and for contributing to the project. We will try and get back to you as soon as possible.
+  
+  You can join our [discord server](https://discord.com/invite/projectdiscovery). It's a great place to connect with fellow contributors and stay updated with the latest developments.
+  Thank you once again
+
+pullRequestOpened: >
+  Thank your for raising your pull request.
+
+  Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+
+  Hello, thank you so much for sharing this template with the community and contributing to this project :beers:
+  Please make sure you have followed our [contributing guidelines](https://github.com/projectdiscovery/nuclei-templates/blob/main/CONTRIBUTING.md). We will review it as soon as possible
+  
+  You can join our [discord server](https://discord.com/invite/projectdiscovery). It's a great place to connect with fellow contributors and stay updated with the latest developments. Thank you once again
